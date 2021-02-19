@@ -20,7 +20,8 @@
   },
   "devDependencies": {
     "@types/mongodb": "3.5.25",
-    "BluSpring/endb": "*"
+    "@types/node": "^14.14.30",
+    "endb": "BluSpring/endb"
   },
   "keywords": [
     "endb",
